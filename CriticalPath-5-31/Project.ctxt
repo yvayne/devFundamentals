@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Project()
+comment1.params=name
+comment1.target=Project(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=task
+comment3.target=void\ addTask(Task)
+comment4.params=
+comment4.target=int\ calculateTimeToDelivery()
+comment5.params=
+comment5.target=int\ countTasks()
+comment6.params=
+comment6.target=java.util.List\ calculateCriticalPath()
+numComments=7

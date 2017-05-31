@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ createInstanceOfTask()
+comment0.text=\n\ US1\n
+comment1.params=
+comment1.target=void\ readDescriptionProperty()
+comment2.params=
+comment2.target=void\ writeDescriptionProperty()
+comment3.params=
+comment3.target=void\ readOwnerProperty()
+comment4.params=
+comment4.target=void\ writeOwnerProperty()
+comment5.params=
+comment5.target=void\ createTaskWithNameAndTimeToComplete()
+comment6.params=
+comment6.target=void\ tasksAreEqualIfTheyHaveTheSameNameAndTimeToComplete()
+comment7.params=
+comment7.target=void\ tasksAreDifferentIfTheyHaveADifferentName()
+comment8.params=
+comment8.target=void\ tasksAreDifferentIfTheyHaveADifferentTimeToComplete()
+numComments=9
