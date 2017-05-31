@@ -48,5 +48,12 @@ US 6. As a user I should see a list of tasks that belong to
 the Critical Path
 
 
+SubTask
+
+*Tasks can be divided into subtasks
+*A subtask has the same attributes than task
+*A subtask can only depend on another subtask(only one)
+*If a task has subTask,then its time to complete is the max of time of the subtask
+
 
 

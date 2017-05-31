@@ -50,7 +50,7 @@ public class Project
     
     public List<Task> calculateCriticalPath() {
         List<Task> path = new Vector<Task>();
-        
+        path = tasks;
         return path;
     }
 }
