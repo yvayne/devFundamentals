@@ -56,4 +56,12 @@ SubTask
 *If a task has subTask,then its time to complete is the max of time of the subtask
 
 
+MVC
+
+Modelo business logic,unit test
+View Presentation, aceptance test
+Controller Link,pasa un evento algo en el controler le dice ala vista.
+
+
+
 
